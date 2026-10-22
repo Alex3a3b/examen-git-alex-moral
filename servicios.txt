@@ -1,0 +1,2 @@
+SSH: activo
+DNS: activo
